@@ -1,9 +1,10 @@
 # Udacity Data Scientist Nanodegree (DSND) Term 2 Projects
+![](https://github.com/twang18/DSND_Projects/blob/master/DSND%20Certificate.png)
 
 ## Overview
 
 The Data Scientist Nanodegree (DSND) program is an advanced program designed to prepare learners
-for data scientist jobs.  DSND Term 2 particularly emphasizes applied data science and therefore requires more comprehensive skills and techniques.  The evaluated learning length for Term 2 is 4 months. I applied the following skills in completing the projects:
+for data scientist jobs.  DSND Term 2 particularly emphasizes applied data science and therefore requires more comprehensive skills and techniques. The estimated learning length for Term 2 is 4 months. I applied the following skills in completing the projects:
 
 - Use Python and SQL to access and analyze data from several different data sources.
 - Use principles of statistics and probability to design and execute A/B tests and recommendation
