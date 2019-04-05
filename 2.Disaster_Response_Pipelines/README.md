@@ -58,6 +58,8 @@ Here's the file structure of the project:
 ## Results
 
 - With NLP techiques, machine learning pipelines, grid search for parameters optimizations, a linear model (SGD classification) was finally selected and trained. The model gives a prediction accuracy of 95%.
-- The model can correctly classify the real input messages and display the classification results in the web application page. Check the screen snapshot for the ![classification](C:\Users\apple\Desktop\DSND Projects\0. To GitHub\Disaster_Response_Pipelines\classification.png).
-- The graphs from the model are also displayed in the web application page. Check the screen snapshot for ![graphs](C:\Users\apple\Desktop\DSND Projects\0. To GitHub\Disaster_Response_Pipelines\graphs.png).
+- The model can correctly classify the real input messages and display the classification results in the web application page. Check the screen snapshot for the classification.
+![classification](https://github.com/twang18/DSND_Projects/blob/master/2.Disaster_Response_Pipelines/classification.png).
+- The graphs from the model are also displayed in the web application page. Check the screen snapshot below.
+![graphs](https://github.com/twang18/DSND_Projects/blob/master/2.Disaster_Response_Pipelines/graphs.png).
 
